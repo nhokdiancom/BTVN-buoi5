@@ -16,5 +16,10 @@ namespace _2033216416_NguyenHaiHoa_Buoi5
         {
             InitializeComponent();
         }
+
+        private void frmBaiTap2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
